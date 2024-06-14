@@ -2,4 +2,16 @@ h1{
     color: red;
     background-color: black;
     font-size: 14;
+    padding: 10px;
+    margin: 0px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+p{
+    color: bisque;
+    background-color: black;
+    font-size: 10;
+    padding: 10px;
+    margin: 0px;
+
 }
