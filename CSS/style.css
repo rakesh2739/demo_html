@@ -5,6 +5,7 @@
 }
 
 /* Element selecton h1{} , p{} */
+/* font size - absolute and relative */
 h1{
     font-size: 14;
 }  
@@ -45,4 +46,12 @@ a{
 }
 #para1{
     font-weight: 530;
+}
+/* line height */
+#para1{
+    line-height: 20px;
+}
+/* text transform */
+#para2{
+    text-transform: capitalize;
 }
