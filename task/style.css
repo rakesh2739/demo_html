@@ -10,9 +10,13 @@ table , th , td{
     padding: 15px;
     margin-left: 37.5%;
 }
-table , tr,th{
-    background: blanchedalmond;
+
+tr:nth-child(odd){
+    background-color: gray;
 }
-table , td:nth-child(even){
+tr:nth-child(even){
+    background-color: blanchedalmond;
+}
+tr th{
     background-color: #fff;
 }
