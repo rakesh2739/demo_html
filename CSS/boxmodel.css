@@ -1,3 +1,19 @@
 div{
     height: 100px;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid black;
+    background-color: pink;
+    color: darkgoldenrod;
+    text-align: center;
+}
+button{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+p ,h1{
+    display: grid;
+    justify-content: end;
 }
